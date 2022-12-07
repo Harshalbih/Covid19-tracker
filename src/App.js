@@ -14,7 +14,7 @@ useEffect (() => {
  return (
    <div className='imagevirus'>
     <center>
-    <h3> Covid 19 tracker </h3>
+    <h3> Covid-19 tracker </h3>
     <table  className="table table-dark table-hover">
       <thead>
         <tr>
